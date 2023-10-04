@@ -1,0 +1,8 @@
+télécharger les bibliothèques:
+-pip install openai
+openai : Cette bibliothèque est utilisée pour l'interaction avec l'API d'OpenAI.
+
+-pip install moviepy
+moviepy : Cette bibliothèque est utilisée pour le traitement des vidéos.
+
+-créer un dossier audios,output,videos
